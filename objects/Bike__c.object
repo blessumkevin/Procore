@@ -175,9 +175,9 @@
                     <label>Mountain</label>
                 </value>
                 <value>
-                    <fullName>Road</fullName>
+                    <fullName>Tandem</fullName>
                     <default>false</default>
-                    <label>Road</label>
+                    <label>Tandem</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
