@@ -11,6 +11,11 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>copado__Copado</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>Inspections</application>
         <default>false</default>
         <visible>true</visible>
@@ -26,11 +31,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
-        <application>copado__Copado</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
         <application>copado__Copado_Branch_Management</application>
         <default>false</default>
         <visible>true</visible>
@@ -42,11 +42,6 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>copado__Copado_Compliance_Hub</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
-        <application>copado__Copado_Console</application>
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
@@ -104,6 +99,11 @@
         <application>standard__Platform</application>
         <default>false</default>
         <visible>false</visible>
+    </applicationVisibilities>
+     <applicationVisibilities>
+        <application>copado__Copado_Console</application>
+        <default>false</default>
+        <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Sales</application>
